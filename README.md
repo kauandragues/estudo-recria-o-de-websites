@@ -1,4 +1,4 @@
-# estudo-recria-o-de-websites
+# estudo-recriando-websites
 Tentativas de recriação de sites famosos utilizando apenas CSS e HTML (por enquanto)
 
 Finalizei a recriação do YT 😁👍
