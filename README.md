@@ -7,4 +7,5 @@ Finalizei a recriação do YT 😁👍
 Modelo:
 ![image](https://github.com/kauandragues/estudo-recria-o-de-websites/assets/119459549/cace4d87-8830-4f4d-a189-20a573f40446)
 
-
+Trabalhando no Airbnb:
+https://kauandragues.github.io/
